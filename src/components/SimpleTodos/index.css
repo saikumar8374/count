@@ -1,0 +1,26 @@
+.container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list-container {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 30px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+  align-self: center;
+  color: #ff8542;
+  font-family: 'Roboto';
+}
